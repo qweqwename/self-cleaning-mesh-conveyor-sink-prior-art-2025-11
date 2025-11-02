@@ -3,7 +3,7 @@
 **Under-sink self-cleaning filter with a moving permeable conveying surface**
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1088281874.svg)](https://doi.org/10.5281/zenodo.17507813)
 **Дата публикации:** 2025-11-02 · **Версия:** v1.0.0
 
 > ⚠️ *Defensive publication / оборонная публикация.* Этот репозиторий сознательно публикуется в открытом доступе, чтобы создать **предшествующий уровень техники (prior art)** и **помешать патентованию эквивалентных решений** в любой юрисдикции. Лицензия: **CC0-1.0 (Public Domain)**.
@@ -61,11 +61,9 @@ A **moving permeable conveying surface** (e.g., a mesh belt) is installed **unde
 
 Если вы ссылаетесь на это раскрытие, используйте DOI конкретной версии (release):
 
-**RU:** *Подмойечный самоочищающийся фильтр с перемещаемой проницаемой поверхностью (defensive publication).* Версия v1.0.0, 2025-11-02. DOI: `10.5281/zenodo.XXXXXXX`.
+**RU:** *Подмойечный самоочищающийся фильтр с перемещаемой проницаемой поверхностью (defensive publication).* Версия v1.0.0, 2025-11-02. DOI: `10.5281/zenodo.17507813`.
 
-**EN:** *Under-sink self-cleaning filter with a moving permeable conveying surface (defensive publication).* Version v1.0.0, 2025-11-02. DOI: `10.5281/zenodo.XXXXXXX`.
-
-> Замените `XXXXXXX` на реальный номер после выпуска релиза и получения DOI в Zenodo. Добавьте файл `CITATION.cff` при желании.
+**EN:** *Under-sink self-cleaning filter with a moving permeable conveying surface (defensive publication).* Version v1.0.0, 2025-11-02. DOI: `10.5281/zenodo.17507813`.
 
 ---
 
@@ -75,22 +73,17 @@ A **moving permeable conveying surface** (e.g., a mesh belt) is installed **unde
 
 ---
 
-## Репозиторий (минимум)
+## Репозиторий
 
 * `README.md` — этот файл.
 * `LICENSE` — полный текст **CC0-1.0**.
-* (Опц.) `CITATION.cff` — карточка цитирования с DOI.
 
 ---
 
-### Бейджи для шапки (замените DOI)
-
 ```md
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1088281874.svg)](https://doi.org/10.5281/zenodo.17507813)
 ```
-
-### Строка SPDX для файлов
 
 ```txt
 SPDX-License-Identifier: CC0-1.0
